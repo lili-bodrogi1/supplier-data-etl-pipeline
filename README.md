@@ -43,6 +43,6 @@ You can see my process here: [`diagrams/etl_flow.png`](diagrams/etl_flow.png)
 
 ## 👩 About me
 
-I’m 24, I studied Computer Science Engineering with big data & business intelligence specialization.  
-In my previous job I worked almost 3 years with ETL processes, data cleaning and sometimes frontend.  
-I like solving problems with data and I’m learning German now.
+I’m 24 years old, I studied Computer Science Engineering with big data & business intelligence specialization.  
+In my previous job I worked almost 3 years with ETL processes, data cleaning and sometimes I did frontend development.  
+I like solving problems with data and also eager to learn more methods and to include more cloud environment in my ELT setups, which we know is the future. And I’m also learning German now.
